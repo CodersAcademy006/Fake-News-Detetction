@@ -209,5 +209,4 @@ If you use this dataset, please cite the following papers:
 [FakeNewsTracker]:<http://blogtrackers.fulton.asu.edu:3000>
 [FakeNewsNet]:<https://arxiv.org/abs/1809.01286>
 
-(C) 2019 Arizona Board of Regents on Behalf of ASU
-
+(C) All Copyrights Reserved.
